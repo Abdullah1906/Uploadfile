@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\new\\source\\repos\\Image\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E987901-2948-4BBA-8A2B-0E4BF8347EE2}|Image\\Image.csproj|c:\\users\\new\\source\\repos\\image\\image\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E987901-2948-4BBA-8A2B-0E4BF8347EE2}|Image\\Image.csproj|solutionrelative:image\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E987901-2948-4BBA-8A2B-0E4BF8347EE2}|Image\\Image.csproj|c:\\users\\new\\source\\repos\\image\\image\\views\\product\\showimage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E987901-2948-4BBA-8A2B-0E4BF8347EE2}|Image\\Image.csproj|solutionrelative:image\\views\\product\\showimage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E987901-2948-4BBA-8A2B-0E4BF8347EE2}|Image\\Image.csproj|c:\\users\\new\\source\\repos\\image\\image\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E987901-2948-4BBA-8A2B-0E4BF8347EE2}|Image\\Image.csproj|solutionrelative:image\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E987901-2948-4BBA-8A2B-0E4BF8347EE2}|Image\\Image.csproj|c:\\users\\new\\source\\repos\\image\\image\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E987901-2948-4BBA-8A2B-0E4BF8347EE2}|Image\\Image.csproj|solutionrelative:image\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E987901-2948-4BBA-8A2B-0E4BF8347EE2}|Image\\Image.csproj|c:\\users\\new\\source\\repos\\image\\image\\view model\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E987901-2948-4BBA-8A2B-0E4BF8347EE2}|Image\\Image.csproj|solutionrelative:image\\view model\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E987901-2948-4BBA-8A2B-0E4BF8347EE2}|Image\\Image.csproj|c:\\users\\new\\source\\repos\\image\\image\\image.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6E987901-2948-4BBA-8A2B-0E4BF8347EE2}|Image\\Image.csproj|solutionrelative:image\\image.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E987901-2948-4BBA-8A2B-0E4BF8347EE2}|Image\\Image.csproj|c:\\users\\new\\source\\repos\\image\\image\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E987901-2948-4BBA-8A2B-0E4BF8347EE2}|Image\\Image.csproj|solutionrelative:image\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E987901-2948-4BBA-8A2B-0E4BF8347EE2}|Image\\Image.csproj|c:\\users\\new\\source\\repos\\image\\image\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E987901-2948-4BBA-8A2B-0E4BF8347EE2}|Image\\Image.csproj|solutionrelative:image\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E987901-2948-4BBA-8A2B-0E4BF8347EE2}|Image\\Image.csproj|c:\\users\\new\\source\\repos\\image\\image\\migrations\\20241005083808_my.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E987901-2948-4BBA-8A2B-0E4BF8347EE2}|Image\\Image.csproj|solutionrelative:image\\migrations\\20241005083808_my.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E987901-2948-4BBA-8A2B-0E4BF8347EE2}|Image\\Image.csproj|c:\\users\\new\\source\\repos\\image\\image\\models\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E987901-2948-4BBA-8A2B-0E4BF8347EE2}|Image\\Image.csproj|solutionrelative:image\\models\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E987901-2948-4BBA-8A2B-0E4BF8347EE2}|Image\\Image.csproj|c:\\users\\new\\source\\repos\\image\\image\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E987901-2948-4BBA-8A2B-0E4BF8347EE2}|Image\\Image.csproj|solutionrelative:image\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowImage.cshtml",
+              "DocumentMoniker": "C:\\Users\\new\\source\\repos\\Image\\Image\\Views\\Product\\ShowImage.cshtml",
+              "RelativeDocumentMoniker": "Image\\Views\\Product\\ShowImage.cshtml",
+              "ToolTip": "C:\\Users\\new\\source\\repos\\Image\\Image\\Views\\Product\\ShowImage.cshtml",
+              "RelativeToolTip": "Image\\Views\\Product\\ShowImage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T12:13:29.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Image.csproj",
+              "DocumentMoniker": "C:\\Users\\new\\source\\repos\\Image\\Image\\Image.csproj",
+              "RelativeDocumentMoniker": "Image\\Image.csproj",
+              "ToolTip": "C:\\Users\\new\\source\\repos\\Image\\Image\\Image.csproj",
+              "RelativeToolTip": "Image\\Image.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-05T11:03:34.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "addproduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\new\\source\\repos\\Image\\Image\\Views\\Product\\addproduct.cshtml",
+              "RelativeDocumentMoniker": "Image\\Views\\Product\\addproduct.cshtml",
+              "ToolTip": "C:\\Users\\new\\source\\repos\\Image\\Image\\Views\\Product\\addproduct.cshtml",
+              "RelativeToolTip": "Image\\Views\\Product\\addproduct.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T10:59:28.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\new\\source\\repos\\Image\\Image\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Image\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\new\\source\\repos\\Image\\Image\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Image\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:52:31.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\new\\source\\repos\\Image\\Image\\View Model\\ProductVM.cs",
+              "RelativeDocumentMoniker": "Image\\View Model\\ProductVM.cs",
+              "ToolTip": "C:\\Users\\new\\source\\repos\\Image\\Image\\View Model\\ProductVM.cs",
+              "RelativeToolTip": "Image\\View Model\\ProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:04:07.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\new\\source\\repos\\Image\\Image\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Image\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\new\\source\\repos\\Image\\Image\\Models\\Product.cs",
+              "RelativeToolTip": "Image\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T08:18:29.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241005083808_my.cs",
+              "DocumentMoniker": "C:\\Users\\new\\source\\repos\\Image\\Image\\Migrations\\20241005083808_my.cs",
+              "RelativeDocumentMoniker": "Image\\Migrations\\20241005083808_my.cs",
+              "ToolTip": "C:\\Users\\new\\source\\repos\\Image\\Image\\Migrations\\20241005083808_my.cs",
+              "RelativeToolTip": "Image\\Migrations\\20241005083808_my.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:47:03.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\new\\source\\repos\\Image\\Image\\Program.cs",
+              "RelativeDocumentMoniker": "Image\\Program.cs",
+              "ToolTip": "C:\\Users\\new\\source\\repos\\Image\\Image\\Program.cs",
+              "RelativeToolTip": "Image\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T08:25:48.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\new\\source\\repos\\Image\\Image\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Image\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\new\\source\\repos\\Image\\Image\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Image\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T08:25:31.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\new\\source\\repos\\Image\\Image\\appsettings.json",
+              "RelativeDocumentMoniker": "Image\\appsettings.json",
+              "ToolTip": "C:\\Users\\new\\source\\repos\\Image\\Image\\appsettings.json",
+              "RelativeToolTip": "Image\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T08:19:17.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "mycontext.cs",
+              "DocumentMoniker": "C:\\Users\\new\\source\\repos\\Image\\Image\\Models\\mycontext.cs",
+              "RelativeDocumentMoniker": "Image\\Models\\mycontext.cs",
+              "ToolTip": "C:\\Users\\new\\source\\repos\\Image\\Image\\Models\\mycontext.cs",
+              "RelativeToolTip": "Image\\Models\\mycontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T08:18:44.209Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
